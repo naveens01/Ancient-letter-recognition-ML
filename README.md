@@ -1,9 +1,15 @@
 # Ancient-letter-recognition-ML
+
 ![download (1)](https://github.com/naveens01/Ancient-letter-recognition-ML/assets/88920707/a9ecfef4-4248-4136-914a-c91f522d03d2)
+
 ![download](https://github.com/naveens01/Ancient-letter-recognition-ML/assets/88920707/7dd2c5be-bf8a-4551-80ec-409c82a1a4d7)
+
 ![download (2)](https://github.com/naveens01/Ancient-letter-recognition-ML/assets/88920707/d1ca7d85-fb7d-42c5-9a06-6d2f8b670923)
+
 ![FF](https://github.com/naveens01/Ancient-letter-recognition-ML/assets/88920707/fc16b8f2-3cbb-4144-82d2-4e54e8721b94)
+
 ![RR](https://github.com/naveens01/Ancient-letter-recognition-ML/assets/88920707/2614dad5-f7ab-474e-b5e3-c339afd1974b)
+
 
 # Recognition and Translation of Ancient Letters using Deep Learning and NLP
 
