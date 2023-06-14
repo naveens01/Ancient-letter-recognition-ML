@@ -38,7 +38,7 @@ To install the project and its dependencies, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/ancient-letters-recognition.git
+   git clone https://github.com/naveens01/Ancient-letter-recognition-ML
    ```
 
 2. Navigate to the project directory:
@@ -107,5 +107,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 ---
 
 <div align="center">
-  <sub>Built with ❤︎ by the Ancient Letters Recognition team</sub>
+  <sub>Built with ❤︎ by NAVEEN S</sub>
 </div>
